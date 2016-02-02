@@ -24,3 +24,4 @@ Esta es una recopilación de recursos para aprender/mejorar en el desarrollo Jav
   
 Influencers:
 * [@paul_irish](paul_irish)
+* [Otros](http://github-awards.com/users?country=united+states)
