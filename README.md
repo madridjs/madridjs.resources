@@ -14,6 +14,7 @@ Esta es una recopilación de recursos para aprender/mejorar en el desarrollo Jav
 * Tutoriales
   *  [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery): chuleta
   *  [JavaScript_Tips](https://developer.mozilla.org/en-US/docs/JavaScript_Tips)
+  *  [This is about one JS tip every day!](https://github.com/loverajoel/jstips)
 * Youtube:
   * [JavaScript and the Browser](https://www.youtube.com/watch?v=dibzLw4wPms)
 * Tutoriales interactivos:
