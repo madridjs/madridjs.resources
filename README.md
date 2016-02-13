@@ -30,5 +30,7 @@ Esta es una recopilación de recursos para aprender/mejorar en el desarrollo Jav
   * [Guía de estilos de JavaScript de Google](http://google.github.io/styleguide/javascriptguide.xml)
   
 Influencers:
-* [@paul_irish](paul_irish)
+* [Paul Irish](https://twitter.com/paul_irish), trabaja en las Chrome DevTools.
+* [Addy Osmani](https://twitter.com/addyosmani), ingeniero en Google, trabaja en el equipo de Chrome y Polymer.
+* [Dr. Axel Rauschmayer](https://twitter.com/rauschma), autor de varios libros y del blog [2ality.com](http://2ality.com), organizador de MunichJS.
 * [Otros](http://github-awards.com/users?country=united+states)
